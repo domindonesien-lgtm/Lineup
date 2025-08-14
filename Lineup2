@@ -6,7 +6,3 @@ PUBLIC_URL=http://localhost:3000 BOT_TOKEN=<your_token> node index.js
 
 ## Deploy (Render/Railway/VPS)
 Build: npm install
-Start: node index.js
-Env:
-  - BOT_TOKEN = your BotFather token
-  - PUBLIC_URL = https://your-domain-or-ngrok
